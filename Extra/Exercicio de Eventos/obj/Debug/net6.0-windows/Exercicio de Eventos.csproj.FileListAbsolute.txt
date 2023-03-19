@@ -1,0 +1,17 @@
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\Exercicio de Eventos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\Exercicio_de_Eventos.Form1.resources
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\Exercicio de Eventos.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\Exercicio de Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\Exercicio de Eventos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\Exercicio de Eventos.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\Exercicio de Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\bin\Debug\net6.0-windows\Exercicio de Eventos.exe
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\bin\Debug\net6.0-windows\Exercicio de Eventos.deps.json
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\bin\Debug\net6.0-windows\Exercicio de Eventos.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\bin\Debug\net6.0-windows\Exercicio de Eventos.dll
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\bin\Debug\net6.0-windows\Exercicio de Eventos.pdb
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\Exercicio de Eventos.dll
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\refint\Exercicio de Eventos.dll
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\Exercicio de Eventos.pdb
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\Exercicio de Eventos.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\Exercicio de Eventos\Exercicio de Eventos\obj\Debug\net6.0-windows\ref\Exercicio de Eventos.dll
