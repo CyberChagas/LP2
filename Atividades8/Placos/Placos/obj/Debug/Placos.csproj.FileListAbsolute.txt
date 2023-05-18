@@ -1,0 +1,13 @@
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\bin\Debug\Placos.exe.config
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\bin\Debug\Placos.exe
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\bin\Debug\Placos.pdb
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\obj\Debug\Placos.csprojAssemblyReference.cache
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\obj\Debug\Placos.Form1.resources
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\obj\Debug\Placos.FrmExercicio4.resources
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\obj\Debug\Placos.Properties.Resources.resources
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\obj\Debug\Placos.csproj.GenerateResource.cache
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\obj\Debug\Placos.csproj.CoreCompileInputs.cache
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\obj\Debug\Placos.exe
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\obj\Debug\Placos.pdb
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\obj\Debug\Placos.FrmExercicio1.resources
+C:\Users\0030482223010\Desktop\12-05\Placos\Placos\obj\Debug\Placos.FrmExercicio2.resources
